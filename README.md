@@ -44,3 +44,14 @@ To add updated code:
 
 ### After adding header
 ![Af](Images/Secound.png "After")
+
+## Installation instructions for your project.
+Steps to install the project
+- create a repo using + icon in github profile
+- copy the repo link.
+- Clone in local system add add the files. exigute update merge.
+- For each cases commited with proper messege.
+- merged the brach to delete the branch
+
+## Contribution 
+- made by me with help of chatgpt for html and css code
