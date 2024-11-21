@@ -23,3 +23,11 @@ To view this project locally, follow these steps:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Avinashvmetre20/githubandcollab.git
+
+## Screenshots
+
+### Before adding header 
+![Be](images/first.png "Before")
+
+### After adding header
+![Af](images/Secound.png "After")
