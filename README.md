@@ -27,7 +27,7 @@ To view this project locally, follow these steps:
 ## Screenshots
 
 ### Before adding header 
-![Be](images/first.png "Before")
+![Be](Images/first.png "Before")
 
 ### After adding header
-![Af](images/Secound.png "After")
+![Af](Images/Secound.png "After")
