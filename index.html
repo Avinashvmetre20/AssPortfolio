@@ -18,6 +18,26 @@
             padding: 1rem;
             text-align: center;
         }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+            padding: 0.5rem 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        nav a.home { background-color: #0073e6; }
+        nav a.projects { background-color: #e63946; }
+        nav a.resume { background-color: #f77f00; }
+        nav a.certificates { background-color: #2a9d8f; }
         section {
             max-width: 800px;
             margin: 2rem auto;
@@ -49,6 +69,12 @@
     <header>
         <h1>Welcome to Avinash's Portfolio</h1>
     </header>
+    <nav>
+        <a href="#" class="home">Home</a>
+        <a href="#" class="projects">Projects</a>
+        <a href="#" class="resume">Resume</a>
+        <a href="#" class="certificates">Certificates</a>
+    </nav>
     <section>
         <h2>About Me</h2>
         <p>Hello! My name is Avinash. I am a graduate in Computer Science and Engineering from Dr. Ambedkar Institute of Technology. I am originally from Bidar district and currently living in Bengaluru.</p>
