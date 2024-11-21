@@ -27,7 +27,7 @@ To view this project locally, follow these steps:
 ## Creating branch
 To add updated code:
 - In local system add command to create the branch
-  '''bash
+  ```bash
   git branch header
 
 
