@@ -24,6 +24,13 @@ To view this project locally, follow these steps:
    ```bash
    git clone https://github.com/Avinashvmetre20/githubandcollab.git
 
+## Creating branch
+To add updated code:
+- In local system add command to create the branch
+  '''bash
+  git branch header
+
+
 ## Screenshots
 
 ### Before adding header 
