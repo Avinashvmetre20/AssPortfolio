@@ -30,6 +30,12 @@ To add updated code:
   ```bash
   git branch header
 
+- Merging branch
+  ```bash
+  git merge header
+- switching branch
+  ```bash
+  git checkout main
 
 ## Screenshots
 
